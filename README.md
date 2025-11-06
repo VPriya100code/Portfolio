@@ -3,6 +3,11 @@
 > 🌐 A modern and responsive portfolio website built to showcase my projects, skills, and achievements in web development.
 
 ---
+## 🚀 Live Demo
+
+🔗 [Deployed in Vercel too!](https://vpriyaportfolio.vercel.app/)
+
+---
 
 ## 🪄 Overview  
 This project is my personal portfolio website designed to highlight my **technical skills, projects, and experience** in an elegant and user-friendly interface. It includes interactive UI components, smooth animations, and responsive design for all devices.
